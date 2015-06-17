@@ -1,0 +1,5 @@
+DIBBITS (1.1.2.1) unstable; urgency=low
+
+  * Update debian package scripts for use by DIBBITS.
+
+ -- Xerxes Rånby <xerxes@gudinna.com>  Mon, 22 December 2014 17:58:43 +0100

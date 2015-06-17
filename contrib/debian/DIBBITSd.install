@@ -1,0 +1,2 @@
+debian/bin/DIBBITSd usr/bin
+src/DIBBITSd usr/lib/DIBBITS

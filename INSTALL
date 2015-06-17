@@ -1,0 +1,9 @@
+Building DIBBITS
+
+See doc/readme-qt.rst for instructions on building DIBBITS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DIBBITS.
+
+See doc/build-*.txt for instructions on building DIBBITSd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DIBBITS.

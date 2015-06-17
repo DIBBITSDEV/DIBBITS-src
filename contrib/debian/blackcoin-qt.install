@@ -1,0 +1,5 @@
+DIBBITS-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/DIBBITS-qt.desktop usr/share/applications
+debian/DIBBITS-qt.protocol usr/share/kde4/services/

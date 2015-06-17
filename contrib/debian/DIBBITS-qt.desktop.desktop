@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DIBBITS
+Comment=DIBBITS P2P Cryptocurrency
+Exec=/usr/bin/DIBBITS-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/DIBBITS;
+Categories=Office;
+Name[en_GB]=DIBBITS-qt.desktop
